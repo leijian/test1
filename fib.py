@@ -9,4 +9,4 @@ def fib(n):
     print()
 fib(1000)
 time.sleep(10)
-fib(3000)
+fib(4000)
